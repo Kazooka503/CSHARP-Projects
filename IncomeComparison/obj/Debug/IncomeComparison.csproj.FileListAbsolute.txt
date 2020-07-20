@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\austi\Desktop\C# Projects\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb
