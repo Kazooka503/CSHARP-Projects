@@ -1,0 +1,6 @@
+C:\Users\austi\Desktop\C# Projects\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe.config
+C:\Users\austi\Desktop\C# Projects\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe
+C:\Users\austi\Desktop\C# Projects\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.pdb
+C:\Users\austi\Desktop\C# Projects\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.exe
+C:\Users\austi\Desktop\C# Projects\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.pdb
