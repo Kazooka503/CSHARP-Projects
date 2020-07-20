@@ -1,0 +1,6 @@
+C:\Users\austi\Desktop\C# Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\austi\Desktop\C# Projects\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\austi\Desktop\C# Projects\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\austi\Desktop\C# Projects\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\austi\Desktop\C# Projects\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
