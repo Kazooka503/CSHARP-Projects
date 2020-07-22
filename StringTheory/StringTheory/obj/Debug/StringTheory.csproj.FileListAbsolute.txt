@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\bin\Debug\StringTheory.exe.config
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\bin\Debug\StringTheory.exe
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\bin\Debug\StringTheory.pdb
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\obj\Debug\StringTheory.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\obj\Debug\StringTheory.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\obj\Debug\StringTheory.exe
+C:\Users\austi\Desktop\C# Projects\StringTheory\StringTheory\obj\Debug\StringTheory.pdb
