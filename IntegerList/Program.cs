@@ -24,8 +24,19 @@ namespace IntegerList
                     int dividend = entry;
                     int divisor = Convert.ToInt32(number);
                     int quotient = dividend / divisor;
-                    Console.WriteLine(entry + " divided by " + divisor + " is " + quotient);
-                    Console.WriteLine(" ");
+                    if (quotient == 0)
+                    {
+                        throw new DivideByZeroException();
+                    }
+                    else if (quotient < 0)
+                    {
+                        throw new Exception();
+                    }
+                    else
+                    {
+                        Console.WriteLine(entry + " divided by " + divisor + " is " + quotient);
+                        Console.WriteLine(" ");
+                    }
                 }
                 Console.WriteLine("Press Enter...");
             }
@@ -33,6 +44,14 @@ namespace IntegerList
             {
                 Console.WriteLine("Please enter an actual number, ex: 1, 2, or 3");
                 Console.ReadLine();
+            }
+            catch (System.DivideByZeroException)
+            {
+                Console.WriteLine("Do not enter 0 or a negative integer.");
+            }
+            catch (System.Exception)
+            {
+                Console.WriteLine("Do not enter 0 or a negative integer.");
             }
             finally
             {
