@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\bin\Debug\IntegerList.exe.config
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\bin\Debug\IntegerList.exe
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\bin\Debug\IntegerList.pdb
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\obj\Debug\IntegerList.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\obj\Debug\IntegerList.exe
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\obj\Debug\IntegerList.pdb
+C:\Users\austi\Desktop\C# Projects\IntegerList\IntegerList\obj\Debug\IntegerList.csprojAssemblyReference.cache
