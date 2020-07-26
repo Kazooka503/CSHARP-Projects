@@ -96,14 +96,15 @@ class Program
         }
 
         
-        for (int j = 0; j < 5; j++)
+        
+        Console.WriteLine("Please Select A Track");
+        string entry = Console.ReadLine();
+        var duplicates = trackList
+        .Select((t, i) => new { Index = i, Text = t })
+        .Where(p => p.Text == entry)
+        .Select(p => p.Index);
+        for (int j = 0; j < trackList.Count; j++)
         {
-            Console.WriteLine("Please Select A Track");
-            string entry = Console.ReadLine();
-            var duplicates = trackList
-               .Select((t, i) => new { Index = i, Text = t })
-               .Where(p => p.Text == entry)
-               .Select(p => p.Index);
 
             if (trackList.Contains(entry))
             {
@@ -111,11 +112,15 @@ class Program
                 {
                     Console.WriteLine("Your selection is found at index {0}", i);
                 }
+                Console.ReadLine();
+                break;
             }
             else
             {
                 Console.WriteLine("Your Selection is not a track");
             }
+            Console.ReadLine();
+            break;
         }
         
         List<string> purchaseRecord = new List<string>();
