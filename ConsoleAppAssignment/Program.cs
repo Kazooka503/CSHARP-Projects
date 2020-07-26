@@ -89,26 +89,35 @@ class Program
         trackList.Add("Degregation");
         trackList.Add("Soul in Flesh");
         trackList.Add("The Human Element");
+         
         foreach (string track in trackList)
         {
             Console.WriteLine(track);
         }
-        for (int i = 0; i < trackList.Count; i++)
+
+        
+        for (int j = 0; j < 5; j++)
         {
-            Console.WriteLine("Please Select a Track from above");
-            if (trackList.Contains(Console.ReadLine()))
+            Console.WriteLine("Please Select A Track");
+            string entry = Console.ReadLine();
+            var duplicates = trackList
+               .Select((t, i) => new { Index = i, Text = t })
+               .Where(p => p.Text == entry)
+               .Select(p => p.Index);
+
+            if (trackList.Contains(entry))
             {
-                Console.WriteLine("Confirm Selection");
-                Console.WriteLine(trackList.IndexOf(Console.ReadLine()));
-                Console.ReadLine();
-                break;
+                foreach (var i in duplicates)
+                {
+                    Console.WriteLine("Your selection is found at index {0}", i);
+                }
             }
             else
             {
                 Console.WriteLine("Your Selection is not a track");
-                Console.ReadLine();
-            }    
+            }
         }
+        
         List<string> purchaseRecord = new List<string>();
         purchaseRecord.Add("Hank");
         purchaseRecord.Add("Greg");
@@ -118,7 +127,7 @@ class Program
         var group = purchaseRecord.GroupBy(i => i.ToString());
         foreach( var grp in group )
         {
-            if (grp.Count() == 2)
+            if (grp.Count() > 1)
             {
                 Console.WriteLine("{0} has appeared {1} times in the list.", grp.Key, grp.Count());
                 Console.ReadLine();
