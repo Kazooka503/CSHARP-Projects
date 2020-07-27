@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\bin\Debug\ClassAssignment2.exe.config
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\bin\Debug\ClassAssignment2.exe
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\bin\Debug\ClassAssignment2.pdb
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\obj\Debug\ClassAssignment2.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\obj\Debug\ClassAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\obj\Debug\ClassAssignment2.exe
+C:\Users\austi\Desktop\C# Projects\ClassAssignment2\ClassAssignment2\obj\Debug\ClassAssignment2.pdb
