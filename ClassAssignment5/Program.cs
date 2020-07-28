@@ -8,12 +8,13 @@ namespace ClassAssignment5
         static void Main(string[] args)
         {
             Console.WriteLine("What number would you like to divide by two?");
+            Calculate calc = new Calculate();
             
             try
             {
                 int final;
                 int entry = Convert.ToInt32(Console.ReadLine());
-                Calculate.DivideByTwo(entry, out final);
+                calc.DivideByTwo(entry, out final);
                 Console.WriteLine("Your number divided by two is " + final);
                 Console.ReadLine();
             }
@@ -22,7 +23,7 @@ namespace ClassAssignment5
                 Console.WriteLine("One more time..");
                 decimal final;
                 decimal entry = Convert.ToDecimal(Console.ReadLine());
-                Calculate.DivideByTwo(entry, out final);
+                calc.DivideByTwo(entry, out final);
                 Console.WriteLine("Your number divided by two is " + final);
                 Console.ReadLine();
             
