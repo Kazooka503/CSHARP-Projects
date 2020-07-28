@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+C:\Users\austi\Desktop\C# Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb
