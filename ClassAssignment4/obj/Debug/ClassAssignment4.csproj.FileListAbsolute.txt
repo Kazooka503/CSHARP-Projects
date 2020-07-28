@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\bin\Debug\ClassAssignment4.exe.config
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\bin\Debug\ClassAssignment4.exe
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\bin\Debug\ClassAssignment4.pdb
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.exe
+C:\Users\austi\Desktop\C# Projects\ClassAssignment4\ClassAssignment4\obj\Debug\ClassAssignment4.pdb
