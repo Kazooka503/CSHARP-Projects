@@ -1,11 +1,12 @@
 ﻿using System;
 
 
+
 namespace StructAssignment
 {
     struct Number
     {
-        public int Amount;  
+        public decimal Amount;  
     }
 
 
@@ -14,7 +15,7 @@ namespace StructAssignment
         static void Main(string[] args)
         {
             Number number = new Number();
-            number.Amount = 107;
+            number.Amount = 10.7m;
             Console.WriteLine("The number is: " + number.Amount);
             Console.ReadLine();
         }
