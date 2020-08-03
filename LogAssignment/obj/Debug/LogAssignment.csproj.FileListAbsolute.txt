@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\bin\Debug\LogAssignment.exe.config
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\bin\Debug\LogAssignment.exe
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\bin\Debug\LogAssignment.pdb
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\obj\Debug\LogAssignment.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\obj\Debug\LogAssignment.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\obj\Debug\LogAssignment.exe
+C:\Users\austi\Desktop\C# Projects\LogAssignment\LogAssignment\obj\Debug\LogAssignment.pdb
