@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\bin\Debug\ConstVarChainAssignment.exe.config
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\bin\Debug\ConstVarChainAssignment.exe
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\bin\Debug\ConstVarChainAssignment.pdb
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\obj\Debug\ConstVarChainAssignment.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\obj\Debug\ConstVarChainAssignment.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\obj\Debug\ConstVarChainAssignment.exe
+C:\Users\austi\Desktop\C# Projects\ConstVarChainAssignment\ConstVarChainAssignment\obj\Debug\ConstVarChainAssignment.pdb
