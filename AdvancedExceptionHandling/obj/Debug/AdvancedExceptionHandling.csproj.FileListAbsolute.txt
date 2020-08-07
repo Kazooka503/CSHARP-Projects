@@ -1,0 +1,7 @@
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\bin\Debug\AdvancedExceptionHandling.exe.config
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\bin\Debug\AdvancedExceptionHandling.exe
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\bin\Debug\AdvancedExceptionHandling.pdb
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\obj\Debug\AdvancedExceptionHandling.csprojAssemblyReference.cache
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\obj\Debug\AdvancedExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\obj\Debug\AdvancedExceptionHandling.exe
+C:\Users\austi\Desktop\C# Projects\AdvancedExceptionHandling\AdvancedExceptionHandling\obj\Debug\AdvancedExceptionHandling.pdb
