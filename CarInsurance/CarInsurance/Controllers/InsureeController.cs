@@ -22,6 +22,11 @@ namespace CarInsurance.Controllers
             return View(db.Tables.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            return View(db.Tables.ToList());
+        }
+
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
@@ -85,11 +90,16 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,ConvergeType,Quote")] Table table)
+        public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,ConvergeType")] Table table)
         {
             if (ModelState.IsValid)
             {
                 db.Entry(table).State = EntityState.Modified;
+                db.SaveChanges();
+            }
+            if (ModelState.IsValid)
+            {
+                table.Quote = Convert.ToDecimal(QuoteGen(table.Id));
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -122,7 +132,7 @@ namespace CarInsurance.Controllers
             return RedirectToAction("Index");
         }
 
-        public ActionResult QuoteGen(int id)
+        public int QuoteGen(int id)
         {
             Table table = db.Tables.Find(id);
             DateTime age = table.DateOfBirth;
@@ -176,7 +186,7 @@ namespace CarInsurance.Controllers
                 double coverage = quote * 1.5;
                 quote = Convert.ToInt32(coverage);
             }
-            return Content(Convert.ToString(quote));
+            return quote;
             
         }
 
